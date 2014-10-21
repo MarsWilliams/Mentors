@@ -27,7 +27,7 @@
 - What was your interview like? How did you prepare?
 - What types of problems did you solve?
 - Which problem was most challenging? How did you solve it?
-- What kinds of mentorship and support did you recieve?
+- What kinds of mentorship and support did you receive?
 - What was the most valuable thing you learned?
 
 
